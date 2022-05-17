@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": "22ae6acb-0907-4e5e-b0b3-288781c1a301",
+      "author": "Петров Денис",
+      "title": "Тестирование тестов"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
